@@ -1,4 +1,4 @@
-# Olá, sou o Gui Regazzo! 👋
+# Olá, Bem-vindo(a)! 👋
 
 ### 🚀 Gestor de TI | Engenheiro de Dados
 
