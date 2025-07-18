@@ -1,13 +1,31 @@
 # Olá, sou o Aluisio Guilherme! 👋
 
-### 🚀 Gestor de TI | Engenheiro de Dados | Apaixonado por Dados
+### 🚀 Gestor de TI | Engenheiro de Dados
 
-Bem-vindo(a) ao meu universo de dados e tecnologia! Sou um **Gestor de TI** com mais de 3 anos de experiência, focado em transformar desafios de negócios em soluções inovadoras através do poder dos dados. Minha jornada profissional e acadêmica me posicionou como um **Engenheiro de Dados** que adora desvendar padrões e construir arquiteturas robustas.
+Bem-vindo(a) **Gestor de TI** com mais de 3 anos de experiência, focado em transformar desafios de negócios em soluções através do poder dos dados. Minha jornada profissional e acadêmica me posicionou como um **Coordenador de Desenvolvimento de Sistemas** que adora desvendar padrões e construir arquiteturas robustas.
 
----
+<div> 
+  <a href="https://www.linkedin.com/in/guiregazzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/guiregazzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ## 🛠️ Minhas Ferramentas e Especialidades
 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
 Aqui está um vislumbre das tecnologias e áreas que me impulsionam:
 
 ### 🐍 Programação & Integração
@@ -32,22 +50,6 @@ Aqui está um vislumbre das tecnologias e áreas que me impulsionam:
 ### ☁️ Cloud & Infraestrutura
 - **GCP**: Experiência em serviços de dados e infraestrutura.
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
 ---
 
 <picture>
@@ -57,12 +59,3 @@ Aqui está um vislumbre das tecnologias e áreas que me impulsionam:
 </picture>
 
 ###
-
-
-## 📬 Conecte-se Comigo!
-
-Adoraria trocar ideias e experiências! Você pode me encontrar em:
-
-[LinkedIn](https://www.linkedin.com/in/guiregazzo/)
-
-Agradeço sua visita e espero que goste do que encontrar por aqui! 😊
