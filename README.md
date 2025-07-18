@@ -32,23 +32,32 @@ Aqui está um vislumbre das tecnologias e áreas que me impulsionam:
 ### ☁️ Cloud & Infraestrutura
 - **GCP**: Experiência em serviços de dados e infraestrutura.
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
 ---
 
-## 🌱 O Que Vem Por Aí?
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RegazzoGui/RegazzoGui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RegazzoGui/RegazzoGui/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RegazzoGui/RegazzoGui/output/pacman-contribution-graph.svg">
+</picture>
 
-Estou sempre em busca de novos conhecimentos e desafios! Atualmente, meu foco está em:
+###
 
-- Aprofundar meus estudos em **Data Governance, MLOps e Security**.
-- Colaborar em projetos open source relacionados a **Engenharia de Dados, Análise Dados Educacionais]**.
-
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RegazzoGui/RegazzoGui/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha de Contribuições">
-</p>
-
----
 
 ## 📬 Conecte-se Comigo!
 
