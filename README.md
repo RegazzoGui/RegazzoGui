@@ -1,4 +1,4 @@
-# Olá, sou o Aluisio Guilherme! 👋
+# Olá, sou o Gui Regazzo! 👋
 
 ### 🚀 Gestor de TI | Engenheiro de Dados
 
